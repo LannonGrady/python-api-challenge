@@ -1,7 +1,9 @@
 Module 6 Challenge python-api-challenge Readme:
 
 I extensively referenced the following in class assignments for working through this coding challenge: 
+
 06-Python-APIs/2/Activities/07-Stu_Weather_Stats/Solved/weather_stats_solution.ipynb
+
 06-Python-APIs/2/Activities/03-Ins_OpenWeatherRequest/Solved/open_weather_request_solution.ipynb
 
 Here are some of my additional code sources:
